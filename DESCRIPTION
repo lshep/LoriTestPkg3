@@ -3,8 +3,7 @@ Title: What the Package Does (One Line, Title Case)
 Version: 0.99.0
 Date: 2023-02-10
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Lori", "Shepherd", email="lori.shepherd@roswellpark.org", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: Artistic-2.0
 URL: https://github.com/lshep/LoriTestPkg3
